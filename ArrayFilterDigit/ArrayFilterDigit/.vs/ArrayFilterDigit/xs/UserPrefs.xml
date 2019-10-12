@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E775E1EA-8234-4EEB-BB2E-EE68D3AAFE83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayFilterDigit.cs">
+    <Files>
+      <File FileName="ArrayFilterDigit.cs" Line="58" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayFilterDigit" expanded="True">
+            <Node name="ArrayFilterDigit" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="StyleCop.Analyzers" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ArrayFilterDigit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

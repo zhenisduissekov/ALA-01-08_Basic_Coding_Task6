@@ -1,0 +1,15 @@
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/ArrayFilterDigit
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/ArrayFilterDigit.deps.json
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/ArrayFilterDigit.runtimeconfig.json
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/ArrayFilterDigit.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/ArrayFilterDigit.dll
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/ArrayFilterDigit.pdb
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/obj/Debug/netcoreapp3.0/ArrayFilterDigit.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/obj/Debug/netcoreapp3.0/ArrayFilterDigit.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/obj/Debug/netcoreapp3.0/ArrayFilterDigit.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/obj/Debug/netcoreapp3.0/ArrayFilterDigit.dll
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/obj/Debug/netcoreapp3.0/ArrayFilterDigit.pdb
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/nunit.framework.dll
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/obj/Debug/netcoreapp3.0/ArrayFilterDigit.csproj.CopyComplete
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/Castle.Core.dll
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task6/ArrayFilterDigit/ArrayFilterDigit/bin/Debug/netcoreapp3.0/Moq.dll

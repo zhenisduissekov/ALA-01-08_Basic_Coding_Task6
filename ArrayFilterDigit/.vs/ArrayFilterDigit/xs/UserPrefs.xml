@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{7748FADD-DFAF-4FFA-83E8-4D6AF1D7D3E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayFiterDigitMStests/ArrayFilterDigitTests.cs">
+    <Files>
+      <File FileName="ArrayFilterDigitTests/ArrayFilterDigitTests.cs" Line="1" Column="1" />
+      <File FileName="ArrayFilterDigit/ArrayFilterDigit.cs" Line="1" Column="1" />
+      <File FileName="ArrayFiterDigitMStests/UnitTest1.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayFilterDigit" expanded="True">
+            <Node name="ArrayFilterDigit" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ArrayFilterDigitTests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ArrayFiterDigitMStests" expanded="True">
+              <Node name="ArrayFilterDigitTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ArrayFilterDigit" expanded="True">
+            <Node name="ArrayFilterDigitTests" expanded="True">
+              <Node name="ArrayFilterDigitTests" expanded="True">
+                <Node name="ArrayFilterDigitTests" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ArrayFiterDigitMStests" expanded="True">
+              <Node name="ArrayFiterDigitNStests" expanded="True">
+                <Node name="ArrayFilterDigitTests" expanded="True">
+                  <Node name="FilterDigit1_2_3_4_5_7_2_77_107returned_7_77_107" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ArrayFilterDigit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="zhenis" Email="zduissekov@gmail.com" Copyright="none" Company="none" Trademark="none" />
+</Properties>
